@@ -1,0 +1,3 @@
+C:/Users/patch/CLionProjects/c06/cmake-build-debug/CMakeFiles/c06.dir
+C:/Users/patch/CLionProjects/c06/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/patch/CLionProjects/c06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
